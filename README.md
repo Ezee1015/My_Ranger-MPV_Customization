@@ -5,6 +5,7 @@ Mi personalización para Ranger y MPV. Generalmente uso Ranger para reproducir m
 > Serán instalados automáticamente si posee Debian, Arch, Open Suse o derivados
 - ranger
 - mpv
+
 Se necesitará una terminal/consola con una fuente de [NerdFonts](https://www.nerdfonts.com/) para Ranger
 
 # INSTALACIÓN
