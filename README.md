@@ -1,2 +1,13 @@
 # My_Ranger&MPV_Customization
-My customization for Ranger and MPV. I mostly use this two for playing music or edit files in neovim
+Mi personalización para Ranger y MPV. Generalmente uso Ranger para reproducir música (con MPV), o para editar archivo (con [Neovim](https://github.com/Ezee1015/My_VIM_Customization))
+
+## REQUISITOS
+> Serán instalados automáticamente si posee Debian, Arch, Open Suse o derivados
+- ranger
+- mpv
+Se necesitará una terminal/consola con una fuente de [NerdFonts](https://www.nerdfonts.com/) para Ranger
+
+# INSTALACIÓN
+```bash
+./INSTALL.sh
+```
