@@ -95,3 +95,14 @@ Se necesitará una terminal/consola con una fuente de [NerdFonts](https://www.ne
 | `'  + <letter>`  | Go to Marker                      |
 | `t`              | Tag a file with an *              |
 | `t"<any>`        | Tag a file with your desired mark |
+
+# MPV
+
+| Shortcut  | Description                                   |
+|-----------|-----------------------------------------------|
+| `h`       | Anterior canción en la lista de reproducción  |
+| `l`       | Siguiente canción en la lista de reproducción |
+| `j`       | Disminuir volumen                             |
+| `k`       | Aumentar volumen                              |
+| `<Left>`  | Retroceder en la reproducción                 |
+| `<Right>` | Adelantar en la reproducción                  |
