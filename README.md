@@ -40,21 +40,22 @@ Se necesitará una terminal/consola con una fuente de [NerdFonts](https://www.ne
 | `~`      | Switch the view      |
 
 ## File Operations
-| Shortcut   | Description                |
-|------------|----------------------------|
-| `<Enter>`  | Open                       |
-| `r`        | Open file with             |
-| `z`        | Toggle settings            |
-| `o`        | Change sort order          |
-| `zh`       | View hidden files          |
-| `cw`       | Rename current file        |
-| `yy`       | Yank / copy                |
-| `dd`       | Cut                        |
-| `pp`       | Paste                      |
-| `/`        | Search for files `:search` |
-| `n`        | Next match                 |
-| `N`        | Prev match                 |
-| `<delete>` | Delete                     |
+| Shortcut   | Description                                    |
+|------------|------------------------------------------------|
+| `<Enter>`  | Open                                           |
+| `r`        | Open file with                                 |
+| `z`        | Toggle settings                                |
+| `o`        | Change sort order                              |
+| `zh`       | View hidden files                              |
+| `cw`       | Rename current file                            |
+| `yy`       | Yank / copy                                    |
+| `dd`       | Cut                                            |
+| `pp`       | Paste                                          |
+| `/`        | Search for files `:search`                     |
+| `n`        | Next match                                     |
+| `N`        | Prev match                                     |
+| `<delete>` | Delete                                         |
+| `r`        | Abrir la carpeta/archivo con cierta aplicación |
 
 
 ## Commands
