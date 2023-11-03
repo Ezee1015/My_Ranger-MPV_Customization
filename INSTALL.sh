@@ -15,7 +15,7 @@ function INSTALAR {
 
     # MPV
     mkdir ~/.config/mpv
-    cp config/input.conf ~/.config/mpv/
+    cp config/input.conf config/mpv.conf ~/.config/mpv/
     git clone https://github.com/alexanderjeurissen/ranger_devicons ~/.config/ranger/plugins/ranger_devicons
 
 }
