@@ -2,9 +2,9 @@
 
 function INSTALAR {
 
-    sudo apt install ranger mpv
-    sudo pacman -S ranger mpv
-    sudo zypper install ranger mpv
+    sudo apt install ranger mpv exiftool
+    sudo pacman -S ranger mpv perl-image-exiftool
+    sudo zypper install ranger mpv exiftool
 
     # Ranger
     mkdir ~/.config/ranger/
