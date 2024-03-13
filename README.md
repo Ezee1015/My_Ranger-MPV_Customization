@@ -106,3 +106,5 @@ Se necesitará una terminal/consola con una fuente de [NerdFonts](https://www.ne
 | `k`       | Aumentar volumen                              |
 | `<Left>`  | Retroceder en la reproducción                 |
 | `<Right>` | Adelantar en la reproducción                  |
+| `'`       | Disminuye la velocidad de reproducción en 0.5 |
+| `¡`       | Aumenta la velocidad de reproducción en 0.5   |
