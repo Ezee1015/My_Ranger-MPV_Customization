@@ -109,4 +109,5 @@ Se necesitará una terminal/consola con una fuente de [NerdFonts](https://www.ne
 | `'`       | Disminuye la velocidad de reproducción en 0.5 |
 | `¡`       | Aumenta la velocidad de reproducción en 0.5   |
 | `L`       | Reproduce en *loop* el archivo                          |
-| `p`       | Reproduce en *loop* la *Playlist*                          |
+| `P`       | Reproduce en *loop* la *Playlist*                          |
+| `R`       | Reproduce en reversa                                       |
