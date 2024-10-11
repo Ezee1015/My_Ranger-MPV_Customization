@@ -8,14 +8,15 @@ function INSTALAR {
 
     # Ranger
     mkdir ~/.config/ranger/
-    cp config/rc.conf ~/.config/ranger/
+    ln -s $(pwd)/config/rc.conf ~/.config/ranger/rc.conf
     git clone https://github.com/dracula/ranger.git /tmp/dracula
     mkdir ~/.config/ranger/colorschemes
     mv /tmp/dracula/dracula.py ~/.config/ranger/colorschemes/
 
     # MPV
     mkdir ~/.config/mpv
-    cp config/input.conf config/mpv.conf ~/.config/mpv/
+    ln -s $(pwd)/config/mpv.conf ~/.config/mpv/mpv.conf
+    ln -s $(pwd)/config/input.conf ~/.config/mpv/input.conf
     git clone https://github.com/alexanderjeurissen/ranger_devicons ~/.config/ranger/plugins/ranger_devicons
 
 }
